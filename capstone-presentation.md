@@ -25,57 +25,32 @@ Each presentation should take approximately **5 minutes** and cover the followin
 
 ## <a href="https://docs.google.com/document/d/1QNOeCBsw4tMSl-5xp1nF65Z8Ot0FqZBrJYXu_Nsa_Uc/edit?usp=sharing">Great read: Capstone Tips by Callan Morrison</a>
 
-## Presentation Slide Details
+## Presentation slide details
++ Slide 1
+   + Your Project Name
+   + It can have a second line, tag line
+   + Your Name
+   + December 18th, 2024
 
- ```  html
++ Slide 2: Project Goals
+   + You should pull this from your elevator pitch/proposal</li>
+   + Aim for a few bullet points
 
- <slide> 
-    <h1>
-      [Your Project Name]
-      <br>
-      [It can have a second line, tag line]
-    </h1>
-    <p>
-      [Your Name]
-      <br>
-      December 18th, 2024
-    </p>
-</slide>
++ Slide 3: Time for a live demo!
 
-<slide>
-    <h3>Project Goals:</h3>
-    <ul>
-      <li>You should pull this from your elevator pitch</li>
-      <li>Aim for a few bullet points</li>
-      <li>Lipsum.</li>
-    </ul>
-</slide>
+## Present your awesomeness
 
-<slide>
-    <h3>Demo</h3>
-    <p>Time for a live demo!</p>
-</slide>
++ Slide 4: Lessons Learned
+   + You get the drill
+   + Aim for a few bullet points
+   + Lipsum
 
-<slide>
-     <h3>
-      Lessons Learned:</h3>
-    <ul>
-      <li>You get the drill.</li>
-      <li>Aim for a few bullet points</li>
-      <li>Lipsum.</li>
-    </ul>
-</slide>
++ Slide 5:
+   + Thank you!
+   + Questions?
+   + Your contact info ( email, Twitter handle, etc
+   + URL for your project, either deployed or github
+   
+## Presentation order 
+We will demo in groups of 6 or 7 with ten minute breaks between. The goal is to be done by about 1:30 pm. The order will be given to you the day before. If you have a preference for going in the first or last group, let your instructor team know by Monday morning the day before your presentation.
 
-<slide>
-    <h3>Thank you!</h3>
-    <p>Questions?</p>
-    <ul>
-        <li><a href='http://www.google.com'>myemail@example.com</a></li>
-        <li><a href='http://www.google.com'>github.com/myprojecturl</a></li>
-    </ul>
-</slide>
-
-```
-
-## Presentation Order
-You will be given a presentation order; no swapping or substitutions.
