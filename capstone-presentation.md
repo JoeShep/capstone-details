@@ -38,7 +38,7 @@ Each presentation should take approximately **5 minutes** and cover the followin
 
 + Slide 3: Time for a live demo!
 
-## Present your awesomeness
+> Present your awesomeness
 
 + Slide 4: Lessons Learned
    + You get the drill
